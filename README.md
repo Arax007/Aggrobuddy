@@ -26,7 +26,6 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 
 # Built with 🛠️
 <code><img height="30" src="java_logo_icon_168609.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146459.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
